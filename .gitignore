@@ -2,4 +2,4 @@
 /.Rhistory
 /.Rproj.user
 /housing cost acs benchmarks.xlsx
-/output
+/input/*.dta.gz
